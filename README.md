@@ -5,29 +5,16 @@
 - <b>Data Visualization (Tableau)</b>
   - [TFL Bus Incidents in Different Boroughs](https://public.tableau.com/app/profile/xingzhou.qian/viz/TFLBusSafty_17285750193210/Dashboard1)
   - [COVID-19 Infection Trends Across The World](https://public.tableau.com/app/profile/xingzhou.qian/viz/CovidDashboard_17313603741330/Dashboard1)
-- <b>Excel (VLOOKUP, PivotTable)</b>
-  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Excel (PivotTable, VLOOKUP)
+  - [Regional Sales Data Across Canada](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Excel%20Project) <b><i>(PivotTable, Line Chart, Bar Chart, Pie Chart)</b></i>
+  - [Exploring Parcel Delivery Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Excel%20Project) <b><i>(VLOOKUP, IF(), SUM(), AVERAGE(), COUNTIF())</b></i>
+- <b>SQL 
+  - [Data Cleaning for Housing Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Data%20Cleaning) <b><i>(JOIN, SUBSTRING, PARSENAME, CASE, Rownumber())</b></i>
+  - [SQL Queries to Explore Covid-19 Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/SQL%20Query) <b><i>(JOIN, ORDERBY, GROUPBY, SUM(), MAX())</b></i>
 
 <h2> 🤳 Connect with me:</h2>
+<li><a href="https://www.linkedin.com/in/xzqian1011/" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+<li><a href="https://github.com/Jasonqian123" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
