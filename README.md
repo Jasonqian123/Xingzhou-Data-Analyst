@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Python</b>
-  - [Data Cleaning for Laptop Pricing](https://public.tableau.com/app/profile/xingzhou.qian/viz/TFLBusSafty_17285750193210/Dashboard1) <b><i>(Missing data, Replacement, Standardization, Normalization, Binning, Indicator Data)</b>
+  - [Data Cleaning for Laptop Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Data%20Cleaning/laptop%20price%20-%20data%20cleaning.ipynb) <b><i>(Missing data, Replacement, Standardization, Normalization, Binning, Indicator Data)</b>
 - <b>Data Visualization (Tableau)</b>
   - [TFL Bus Incidents in Different Boroughs](https://public.tableau.com/app/profile/xingzhou.qian/viz/TFLBusSafty_17285750193210/Dashboard1)
   - [COVID-19 Infection Trends Across The World](https://public.tableau.com/app/profile/xingzhou.qian/viz/CovidDashboard_17313603741330/Dashboard1)
