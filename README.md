@@ -1,8 +1,9 @@
-<h1>Hi, I'm Xingzhou! 👋<br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/posts/xzqian1011_thrilled-to-share-i-have-received-a-distinction-activity-7260678117071929344-wzmK?utm_source=share&utm_medium=member_desktop">Strategy Researcher</a>, <a href="https://www.linkedin.com/posts/xzqian1011_i-am-so-glad-to-have-the-opportunity-to-participate-activity-7188469173574856704-NQDl?utm_source=share&utm_medium=member_desktop">Sports Enthusiast</a></h1>
+<h1>Hi, I'm Xingzhou! 👋<br/><a href="https://www.linkedin.com/in/xzqian1011/">Data Analyst</a>, <a href="https://www.linkedin.com/posts/xzqian1011_thrilled-to-share-i-have-received-a-distinction-activity-7260678117071929344-wzmK?utm_source=share&utm_medium=member_desktop">Strategy Researcher</a>, <a href="https://www.linkedin.com/in/xzqian1011/">Sports Enthusiast</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Python</b>
+  - [Exploratory Data Analysis for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Exploratary%20Data%20Analysis/Explorary%20Data%20Analysis-car%20pricing.ipynb) <b><i>(Correlation, Box plot, ANOVA(groupby), Pivot table, Heatmap)</b>
   - [Data Cleaning for Laptop Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Data%20Cleaning/laptop%20price%20-%20data%20cleaning.ipynb) <b><i>(Missing data, Replacement, Standardization, Normalization, Binning, Indicator Data)</b>
 - <b>Data Visualization (Tableau)</b>
   - [TFL Bus Incidents in Different Boroughs](https://public.tableau.com/app/profile/xingzhou.qian/viz/TFLBusSafty_17285750193210/Dashboard1)
